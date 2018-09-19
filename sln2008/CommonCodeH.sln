@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComUtils", "ComUtils\ComUtils.vcproj", "{1FE26BA6-DB6B-474D-B480-8CF97BB9BA20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PoseUtils", "PoseUtils\PoseUtils.vcproj", "{46EB726A-F8C9-4742-B5E6-D3CFAADD3DC1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SensorDataFrame", "SensorDataFrame\SensorDataFrame.vcproj", "{A847FD24-274E-4BE0-84E1-4690FA28367F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SensorPb", "SensorPb\SensorPb.vcproj", "{36C707D0-4FDF-4207-B6F9-E70FF8075C9D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SensorPbNDC", "SensorPbNDC\SensorPbNDC.vcproj", "{20451EB1-F755-4169-9753-4F1C369A3BB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE26BA6-DB6B-474D-B480-8CF97BB9BA20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FE26BA6-DB6B-474D-B480-8CF97BB9BA20}.Debug|Win32.Build.0 = Debug|Win32
+		{1FE26BA6-DB6B-474D-B480-8CF97BB9BA20}.Release|Win32.ActiveCfg = Release|Win32
+		{1FE26BA6-DB6B-474D-B480-8CF97BB9BA20}.Release|Win32.Build.0 = Release|Win32
+		{46EB726A-F8C9-4742-B5E6-D3CFAADD3DC1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46EB726A-F8C9-4742-B5E6-D3CFAADD3DC1}.Debug|Win32.Build.0 = Debug|Win32
+		{46EB726A-F8C9-4742-B5E6-D3CFAADD3DC1}.Release|Win32.ActiveCfg = Release|Win32
+		{46EB726A-F8C9-4742-B5E6-D3CFAADD3DC1}.Release|Win32.Build.0 = Release|Win32
+		{A847FD24-274E-4BE0-84E1-4690FA28367F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A847FD24-274E-4BE0-84E1-4690FA28367F}.Debug|Win32.Build.0 = Debug|Win32
+		{A847FD24-274E-4BE0-84E1-4690FA28367F}.Release|Win32.ActiveCfg = Release|Win32
+		{A847FD24-274E-4BE0-84E1-4690FA28367F}.Release|Win32.Build.0 = Release|Win32
+		{36C707D0-4FDF-4207-B6F9-E70FF8075C9D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36C707D0-4FDF-4207-B6F9-E70FF8075C9D}.Debug|Win32.Build.0 = Debug|Win32
+		{36C707D0-4FDF-4207-B6F9-E70FF8075C9D}.Release|Win32.ActiveCfg = Release|Win32
+		{36C707D0-4FDF-4207-B6F9-E70FF8075C9D}.Release|Win32.Build.0 = Release|Win32
+		{20451EB1-F755-4169-9753-4F1C369A3BB6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{20451EB1-F755-4169-9753-4F1C369A3BB6}.Debug|Win32.Build.0 = Debug|Win32
+		{20451EB1-F755-4169-9753-4F1C369A3BB6}.Release|Win32.ActiveCfg = Release|Win32
+		{20451EB1-F755-4169-9753-4F1C369A3BB6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
